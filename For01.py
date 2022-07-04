@@ -7,5 +7,5 @@ def main(n):
         list: return  answer
     """
     x = range(0,n)
-    print(list(x))
-main(5)
+    return(list(x))
+print(main(5))
